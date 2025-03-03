@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
-  },
+  }, base: '/sg-website/',
   plugins: [
     react(),
     mode === 'development' &&
