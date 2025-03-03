@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://RobertoFMBarreto.github.io/sg-website/",
+  "homepage": "http://RobertoFMBarreto.github.io/sg-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
