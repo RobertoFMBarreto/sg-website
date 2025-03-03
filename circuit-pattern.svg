@@ -1,0 +1,36 @@
+
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.1">
+    <path d="M0 128H128V0" stroke="currentColor" stroke-width="2"/>
+    <path d="M192 0V64H256V128H384V192" stroke="currentColor" stroke-width="2"/>
+    <path d="M512 128H448V64H384V0" stroke="currentColor" stroke-width="2"/>
+    <path d="M1440 64H1376V0" stroke="currentColor" stroke-width="2"/>
+    <path d="M1312 0V128H1376V192H1440" stroke="currentColor" stroke-width="2"/>
+    <path d="M1312 192H1248V256H1184V320H1120V384" stroke="currentColor" stroke-width="2"/>
+    <path d="M1184 256H1120V192H1056V128H992V64H928V0" stroke="currentColor" stroke-width="2"/>
+    <path d="M640 0V64H704V128H768V192H832V256" stroke="currentColor" stroke-width="2"/>
+    <path d="M576 256H640V320H704V384H768V448H832V512" stroke="currentColor" stroke-width="2"/>
+    <circle cx="128" cy="128" r="8" fill="currentColor"/>
+    <circle cx="384" cy="192" r="8" fill="currentColor"/>
+    <circle cx="1120" cy="384" r="8" fill="currentColor"/>
+    <circle cx="832" cy="256" r="8" fill="currentColor"/>
+    <circle cx="832" cy="512" r="8" fill="currentColor"/>
+    <path d="M832 512H960V576H1088V640H1216V704H1312V768" stroke="currentColor" stroke-width="2"/>
+    <path d="M1312 768H1376V832H1440" stroke="currentColor" stroke-width="2"/>
+    <path d="M1312 768V896H1376V960H1440" stroke="currentColor" stroke-width="2"/>
+    <path d="M1312 896H1216V960H1088V1024" stroke="currentColor" stroke-width="2"/>
+    <path d="M0 896H128V960H256V1024" stroke="currentColor" stroke-width="2"/>
+    <path d="M0 768H64V832H128V896" stroke="currentColor" stroke-width="2"/>
+    <path d="M128 896H192V832H256V768H320V704" stroke="currentColor" stroke-width="2"/>
+    <path d="M320 704H384V640H448V576H512V512" stroke="currentColor" stroke-width="2"/>
+    <path d="M512 512H576V576H640V640H704V704H768V768" stroke="currentColor" stroke-width="2"/>
+    <path d="M768 768H832V832H896V896H960V960" stroke="currentColor" stroke-width="2"/>
+    <circle cx="128" cy="896" r="8" fill="currentColor"/>
+    <circle cx="320" cy="704" r="8" fill="currentColor"/>
+    <circle cx="512" cy="512" r="8" fill="currentColor"/>
+    <circle cx="768" cy="768" r="8" fill="currentColor"/>
+    <circle cx="960" cy="960" r="8" fill="currentColor"/>
+    <circle cx="1312" cy="768" r="8" fill="currentColor"/>
+    <circle cx="1088" cy="1024" r="8" fill="currentColor"/>
+  </g>
+</svg>
