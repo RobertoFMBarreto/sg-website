@@ -22,7 +22,7 @@ const PortfolioSection = () => {
       category: "Industry",
       description:
         "A vision system with AI fault classification, modular and scalable, offering faster inspections than manual ones, with an interface for I/O signals and integration with third-party management platforms.",
-      image: "/assets/artisan.png",
+      image: "/sg-website/assets/artisan.png",
       tags: ["AI", "Computer Vision"],
       longDescription:
         "A vision system with AI fault classification, modular and scalable, offering faster inspections than manual ones, with an interface for I/O signals and integration with third-party management platforms.",
@@ -60,7 +60,7 @@ const PortfolioSection = () => {
       category: "Agriculture",
       description:
         "An innovative digital platform for beekeeping management that combines automatic hive registration, real-time physical monitoring, assisted interventions, anti-theft control, health supervision and honey authenticity tracking, guaranteeing efficiency, security and transparency throughout the production chain.",
-      image: "/assets/bee.png",
+      image: "/sg-website/assets/bee.png",
       tags: ["Block Chain", "Mobile App", "Georeferencing"],
       longDescription:
         "An innovative digital platform for beekeeping management that combines automatic hive registration, real-time physical monitoring, assisted interventions, anti-theft control, health supervision and honey authenticity tracking, guaranteeing efficiency, security and transparency throughout the production chain.",
@@ -134,7 +134,7 @@ const PortfolioSection = () => {
       category: "Agriculture",
       description:
         "A low-cost mobile application for automating the measurement of eggs, using photogrammetry to provide accurate indicators of size, weight and color.",
-      image: "/assets/eggstimation.png",
+      image: "/sg-website/assets/eggstimation.png",
       tags: ["Computer Vision", "Mobile App"],
       longDescription:
         "A low-cost mobile application for automating the measurement of eggs, using photogrammetry to provide accurate indicators of size, weight and color.",
@@ -159,7 +159,7 @@ const PortfolioSection = () => {
       category: "Industry",
       description:
         "An innovative automatic production management system for garment factories, featuring Edge AI for sewing pattern and cycle characterization, automatic garment classification, production time forecasting, preventive maintenance, and integration with third-party management platforms – a simple and scalable solution.",
-      image: "/assets/sewing_leap.png",
+      image: "/sg-website/assets/sewing_leap.png",
       tags: ["AI", "Hardware"],
       longDescription:
         "An innovative automatic production management system for garment factories, featuring Edge AI for sewing pattern and cycle characterization, automatic garment classification, production time forecasting, preventive maintenance, and integration with third-party management platforms – a simple and scalable solution.",
@@ -197,7 +197,7 @@ const PortfolioSection = () => {
       category: "Agriculture",
       description:
         "A cutting-edge animal management and real-time monitoring system featuring LTE-M/NB-IoT for optimized coverage, ultra-efficient energy consumption with integrated solar charging, and virtual fences for precise pasture control. It enables continuous health monitoring through biometric data collection and Edge AI for activity tracking and reproductive cycle prediction. With GPS-based georeferencing, it provides insights into grazing behavior while ensuring ecological balance and sustainability.",
-      image: "/assets/guardian_logo.png",
+      image: "/sg-website/assets/guardian_logo.png",
       tags: [
         "LTE-M/NB-IoT",
         "Georeferencing",
@@ -251,7 +251,7 @@ const PortfolioSection = () => {
       category: "Health",
       description:
         "We integrate small, modular, and scalable sensor kits into wheelchairs to minimize the risk of serious health issues caused by prolonged pressure on the body. Compatible with various manual and electric wheelchair types, our system supports multiple movements like tilting, reclining, and lifting. A modern Android and iOS app ensures seamless user experience with automatic data synchronization, even for those with limited smartphone access. Featuring BLE5 communication and Edge AI on sensors, our solution enhances classification accuracy while reducing data volume for efficient real-time monitoring.",
-      image: "/assets/yumuv.png",
+      image: "/sg-website/assets/yumuv.png",
       tags: ["Wearable", "BLE", "Hardware", "Software", "Real-Time"],
       longDescription:
         "We integrate small, modular, and scalable sensor kits into wheelchairs to minimize the risk of serious health issues caused by prolonged pressure on the body. Compatible with various manual and electric wheelchair types, our system supports multiple movements like tilting, reclining, and lifting. A modern Android and iOS app ensures seamless user experience with automatic data synchronization, even for those with limited smartphone access. Featuring BLE5 communication and Edge AI on sensors, our solution enhances classification accuracy while reducing data volume for efficient real-time monitoring.",
@@ -286,7 +286,7 @@ const PortfolioSection = () => {
       category: "Health",
       description:
         "Wearable devices for seamless indoor and outdoor movement and location tracking. With continuous monitoring, instant notifications are sent to a computer or smartphone whenever the device exits a predefined area, ensuring real-time awareness and security.",
-      image: "/assets/sentinel.png",
+      image: "/sg-website/assets/sentinel.png",
       tags: ["Hardware", "Software", "Real-Time", "Wearable"],
       longDescription:
         "Wearable devices for seamless indoor and outdoor movement and location tracking. With continuous monitoring, instant notifications are sent to a computer or smartphone whenever the device exits a predefined area, ensuring real-time awareness and security.",
@@ -298,7 +298,7 @@ const PortfolioSection = () => {
       category: "Health",
       description:
         "A one-click solution for instant video calls on any TV or smartphone, enabling seamless communication. Automatically sends alerts if the operator falls and initiates emergency calls for rapid response.",
-      image: "/assets/no_isolation.png",
+      image: "/sg-website/assets/no_isolation.png",
       tags: ["Hardware", "Software"],
       longDescription:
         "A one-click solution for instant video calls on any TV or smartphone, enabling seamless communication. Automatically sends alerts if the operator falls and initiates emergency calls for rapid response.",
@@ -320,7 +320,7 @@ const PortfolioSection = () => {
       category: "Heatlh",
       description:
         "With this system, electric wheelchair users who can move on their own two feet can gain better daily habits by maximizing the time they can move without the chair, knowing that whenever they feel tired and need to rest, the chair will be close by.",
-      image: "/assets/followme_logo.png",
+      image: "/sg-website/assets/followme_logo.png",
       tags: ["AI", "Hardware", "Software"],
       longDescription:
         "With this system, electric wheelchair users who can move on their own two feet can gain better daily habits by maximizing the time they can move without the chair, knowing that whenever they feel tired and need to rest, the chair will be close by.",
@@ -332,7 +332,7 @@ const PortfolioSection = () => {
       category: "Heatlh",
       description:
         "Driving an electric wheelchair with just the blink of an eye.\nWe have created the possibility of driving an electric wheelchair with just the blink of an eye.",
-      image: "/assets/blinkeyes_logo-2.png",
+      image: "/sg-website/assets/blinkeyes_logo-2.png",
       tags: ["AI", "Hardware", "Software"],
       longDescription:
         "Driving an electric wheelchair with just the blink of an eye.\nWe have created the possibility of driving an electric wheelchair with just the blink of an eye.",
