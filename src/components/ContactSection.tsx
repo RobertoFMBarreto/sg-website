@@ -56,7 +56,8 @@ const ContactSection = () => {
     {
       icon: <MapPin className="h-5 w-5 text-cyan-400" />,
       title: "Our Location",
-      details: "123 Tech Park, San Francisco, CA 94107, USA",
+      details:
+        "Praça Dr Francisco Sá Carneiro, Nº 219 - 4º esq. 4200 - 313 Porto Portugal",
     },
     {
       icon: <Phone className="h-5 w-5 text-cyan-400" />,
@@ -66,7 +67,7 @@ const ContactSection = () => {
     {
       icon: <Mail className="h-5 w-5 text-cyan-400" />,
       title: "Email Address",
-      details: "contact@syntechiot.com",
+      details: "hugo.lopes@linovt.com",
     },
   ];
 
