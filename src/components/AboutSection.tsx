@@ -30,7 +30,7 @@ const AboutSection = () => {
         ))}
       </div>
 
-      <div className="about-container mx-auto relative z-10">
+      <div className="about-container lg:lg-about-container mx-auto relative z-10">
         <div className="text-center mb-16 md:mb-20 animate-fade-in">
           <div className="inline-block rounded-full bg-cyan-500/10 border border-cyan-500/30 px-3 py-1 text-sm font-medium text-cyan-400 mb-4 backdrop-blur-sm">
             <Sparkles className="h-3.5 w-3.5 inline-block mr-1.5" />

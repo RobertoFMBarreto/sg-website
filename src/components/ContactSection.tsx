@@ -57,7 +57,13 @@ const ContactSection = () => {
       icon: <MapPin className="h-5 w-5 text-cyan-400" />,
       title: "Our Location",
       details:
-        "Praça Dr Francisco Sá Carneiro, Nº 219 - 4º esq. 4200 - 313 Porto Portugal",
+        "Praça Dr Francisco Sá Carneiro, Nº 219 - 4º esq. 4200 - 313, Porto, Portugal",
+    },
+    {
+      icon: <MapPin className="h-5 w-5 text-cyan-400" />,
+      title: "Our Location",
+      details:
+        "Incubo, Rua da Feira - Passos, Nº 309, 4970-786, Viana do Castelo, Portugal",
     },
     {
       icon: <Phone className="h-5 w-5 text-cyan-400" />,

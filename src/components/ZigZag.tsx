@@ -23,7 +23,7 @@ const ZigZagBall = () => {
           keyframes: {
             x: [xOffset, 0, xOffsetRight, xOffsetRight / 2],
             y: ["25vh", "25vh", "25vh", "25vh"],
-            rotation: [0, 360, 720, 1080],
+            rotation: [0, 180, 360, 720],
           },
           scrollTrigger: {
             trigger: "body",
@@ -83,7 +83,10 @@ const ZigZagBall = () => {
   }, []);
 
   return (
-    <div ref={ballRef} className="fixed w-full aspect-square max-w-md mx-auto">
+    <div
+      ref={ballRef}
+      className="fixed w-full aspect-square max-w-md mx-auto hidden lg:block"
+    >
       {/* Rotating CPU with Enhanced Electronic Circuit Animation */}
       <div
         ref={cpuRef}
