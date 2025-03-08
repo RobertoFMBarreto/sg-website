@@ -68,7 +68,7 @@ const ContactSection = () => {
     {
       icon: <Phone className="h-5 w-5 text-cyan-400" />,
       title: "Phone Number",
-      details: "+1 (555) 123-4567",
+      details: "+351 910 164 302",
     },
     {
       icon: <Mail className="h-5 w-5 text-cyan-400" />,
